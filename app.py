@@ -78,6 +78,7 @@ st.markdown("""
         border-radius: 10px;
         border-left: 4px solid #667eea;
         margin: 1rem 0;
+        color: black;
     }
     .lang-badge {
         display: inline-block;
@@ -99,6 +100,7 @@ st.markdown("""
         border: 1px solid #e0e0e0;
         margin: 0.5rem 0;
         box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        color: black;
     }
     .pipeline-arrow {
         text-align: center;
