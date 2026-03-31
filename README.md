@@ -2,6 +2,7 @@
 
 An end-to-end Machine Learning project that classifies Indian languages from voice input. Using advanced audio feature extraction and a hybrid **CNN + Bidirectional LSTM** deep learning architecture, the model can identify languages directly from speech patterns without relying on external APIs.
 
+DEMO LINK :  https://learnedge-voice-language-detection.streamlit.app/
 ---
 
 ## 🚀 Overview
