@@ -1,0 +1,17 @@
+numpy<2.0.0
+librosa
+scikit-learn
+tensorflow
+streamlit
+soundfile
+sounddevice
+scipy
+matplotlib
+seaborn
+joblib
+pydub
+streamlit-webrtc
+audio-recorder-streamlit
+tqdm
+kagglehub
+opencv-python

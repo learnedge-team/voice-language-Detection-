@@ -1,0 +1,24 @@
+{
+    "sample_rate": 22050,
+    "duration": 5,
+    "n_mfcc": 40,
+    "n_mels": 128,
+    "n_chroma": 12,
+    "hop_length": 512,
+    "n_fft": 2048,
+    "max_pad_len": 216,
+    "input_shape": [
+        216,
+        172
+    ],
+    "num_classes": 5,
+    "languages": [
+        "Bengali",
+        "Gujarati",
+        "Hindi",
+        "Marathi",
+        "Punjabi"
+    ],
+    "test_accuracy": 0.7940000295639038,
+    "n_features": 172
+}
