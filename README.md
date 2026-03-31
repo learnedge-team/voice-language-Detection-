@@ -11,7 +11,6 @@ This project provides a complete pipeline from raw audio data to a real-time web
 2.  **Model Training**: Trains a sophisticated neural network on the "Indian Language Speech Dataset".
 3.  **Real-time Interface**: A Streamlit web dashboard for users to upload audio files and get instant predictions with confidence scores.
 
-### Dataset link: https://www.kaggle.com/datasets/hmsolanki/indian-languages-audio-dataset
 ### 🌐 Supported Languages
 The current model is trained to recognize:
 *   🇮🇳 **Hindi** (हिन्दी)

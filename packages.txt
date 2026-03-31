@@ -1,0 +1,4 @@
+libsndfile1-dev
+ffmpeg
+portaudio19-dev
+python3-all-dev

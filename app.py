@@ -131,13 +131,13 @@ def load_model_artifacts():
             artifacts['config'] = json.load(f)
         
         # Load model
-        artifacts['model'] = tf.keras.models.load_model('model\language_model.keras')
+        artifacts['model'] = tf.keras.models.load_model('model/language_model.keras')
         
         # Load label encoder
-        artifacts['label_encoder'] = joblib.load('model\label_encoder.pkl')
+        artifacts['label_encoder'] = joblib.load('model/label_encoder.pkl')
         
         # Load scaler
-        artifacts['scaler'] = joblib.load('model\scaler.pkl')
+        artifacts['scaler'] = joblib.load('model/scaler.pkl')
         
         artifacts['loaded'] = True
         

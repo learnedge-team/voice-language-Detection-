@@ -1,17 +1,14 @@
-numpy
+# Streamlit Cloud Optimized Requirements
+streamlit
+# Use tensorflow-cpu for deployment to fit in memory (Standard TF is fine too)
+tensorflow-cpu
+numpy<2.0.0
 librosa
 scikit-learn
-tensorflow
-streamlit
+joblib
 soundfile
-sounddevice
 scipy
 matplotlib
 seaborn
-joblib
-pydub
-streamlit-webrtc
-audio-recorder-streamlit
 tqdm
-kagglehub
-opencv-python
+# audio-recorder-streamlit (optional, keep if used)
